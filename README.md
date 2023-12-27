@@ -2,7 +2,8 @@
 [Linkedin](https://www.linkedin.com/in/paulcrann) | pcrann@gmail.com
 
 Current Masters Student at Worcester Polytechnic Institute in Robotics Engineering
-# Past Projects
+
+# Highlighted Work
 
 ## Cart Pole System Controller Design/Analyses
 
