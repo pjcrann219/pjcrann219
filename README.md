@@ -1,5 +1,7 @@
 # About me
-Linkedin: https://www.linkedin.com/in/paulcrann
+Linkedin: [Paul Crann](https://www.linkedin.com/in/paulcrann)
+
+Contact: pcrann@gmail.com
 # Past Projects
 
 ## Cart Pole System Controller Design/Analyses
