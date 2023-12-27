@@ -10,6 +10,10 @@
 
 **Summary:** Created a simulation in MATLAB to accurately represent the systems nonlinar dynamics with injected process/sensor noise. Implemented a Kalman filter as a method of state estimation to then be used as a controller input. Created 2 Linear Quadtratic Regulators and a 2-stage PD controller capable of performing set-point control for this system. Ran a Monte-Carlo style simulation to evaluate and validate the 3 controllers. Project completed individualy as a final project submission for RBE 502 - Robot Control at WPI.
 
+| Gif  | Plots |
+| ------------- | ------------- |
+| ![lqr1 copy](https://github.com/pjcrann219/pjcrann219/assets/48891310/daba171a-2ad1-4b34-8bcd-a04863d1b555)  | ![lqr1](https://github.com/pjcrann219/pjcrann219/assets/48891310/8dfb2fd5-0ac2-42c1-91bf-7f801509ae92)  |
+
 **Link:** [Cart-Pole Repository](https://github.com/pjcrann219/Cart-Pole)
 
 ## Lunar Lander DQN
