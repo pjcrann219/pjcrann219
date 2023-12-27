@@ -7,7 +7,7 @@ Current Masters Student at Worcester Polytechnic Institute in Robotics Engineeri
 
 ## Cart Pole System Controller Design/Analyses
 
-**Goal:** Create a simulation of a cart pole system to then design, test, and evaluate different controllers and state estimation techniques.
+**Goal:** Create a simulation of a cart pole system to then design, test, and evaluate different controllers and state estimation techniques on.
 
 **Skills:** Control Systems, Linear Quadtratic Regulator, Kalman Filtering, Simulation, MATLAB
 
