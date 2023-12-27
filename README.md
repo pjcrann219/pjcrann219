@@ -27,13 +27,13 @@
 
 **Skills:** C++, Microcontrollers, Sensors/Motors, Python, OpenCV, Image Processing, PID Control
 
-## Version 1
+### Version 1
 
 **Summary:** As part of my Mechatronics course at UMass Amherst, and in collaboration with 2 other students, wwe built a rapid prototype using a 4-wire resistive touch screen, arduino, servo motors, and 3D printed/ scrap parts. Implemented PD control to control the servo angles and successfully controlled the ball. Despite successfully balancing the ball, time and cost limitations left much room for improvement in terms of structural integrity, control stability, and sensor reliability.
 
 **Link:** [BallBalanceV1 Repository](https://github.com/pjcrann219/BallBalanceV1)
 
-## Version 2
+### Version 2
 
 **Summary:** As a personal project, I iterated the above work and developed an improved system. Replaced touch screen with an overhead webcam, redesigned 3D printed joints, and moved processing off microcontroller (due to image processing needs).
 
