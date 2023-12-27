@@ -1,7 +1,7 @@
 # About me
-Linkedin: [Paul Crann](https://www.linkedin.com/in/paulcrann)
+[Linkedin](https://www.linkedin.com/in/paulcrann) | pcrann@gmail.com
 
-Contact: pcrann@gmail.com
+Current Masters Student at Worcester Polytechnic Institute in Robotics Engineering
 # Past Projects
 
 ## Cart Pole System Controller Design/Analyses
