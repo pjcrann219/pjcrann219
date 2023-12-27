@@ -1,5 +1,5 @@
 # About me
-
+Linkedin: https://www.linkedin.com/in/paulcrann
 # Past Projects
 
 ## Cart Pole System Controller Design/Analyses
@@ -36,7 +36,7 @@
 
 ### Version 1
 
-**Summary:** As part of my Mechatronics course at UMass Amherst, and in collaboration with 2 other students, wwe built a rapid prototype using a 4-wire resistive touch screen, arduino, servo motors, and 3D printed/ scrap parts. Implemented PD control to control the servo angles and successfully controlled the ball. Despite successfully balancing the ball, time and cost limitations left much room for improvement in terms of structural integrity, control stability, and sensor reliability.
+**Summary:** As part of my Mechatronics course at UMass Amherst, and in collaboration with 2 other students, we built a rapid prototype using a 4-wire resistive touch screen, arduino, servo motors, and 3D printed/ scrap parts. Implemented PD control to control the servo angles and successfully controlled the ball. Despite successfully balancing the ball, time and cost limitations left much room for improvement in terms of structural integrity, control stability, and sensor reliability.
 
 https://github.com/pjcrann219/pjcrann219/assets/48891310/75159b9a-b943-4fad-bec0-3a0534a2d430
 
