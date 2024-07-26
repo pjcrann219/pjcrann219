@@ -5,6 +5,19 @@ Current Masters Student at Worcester Polytechnic Institute in Robotics Engineeri
 
 # Highlighted Work
 
+## Traffic Sign Classification Using Convolutional Neural Networks
+
+**Goal:** Develop a convolutional neural network (CNN) to classify traffic signs in unmapped environments to ensure autonomous vehicles obey road rules.
+
+**Skills:** Convolutional Neural Networks, Deep Learning, Image Classification, Data Augmentation, Python, PyTorch
+
+**Summary:** Utilized the road sign imagess from the GRSTB dataset to classify traffic signs into five classes: stop signs, caution signs, crosswalk signs, traffic lights, and speed limit signs. Constructed a CNN with three convolutional layers, each followed by max pooling, batch normalization, ReLU activation, and dropout to prevent overfitting. The model also included two fully connected layers for final classification. Implemented the model using PyTorch and optimized it with Adam optimizer and cross-entropy loss. Trained the model achieving over 90% accuracy on the testing data. Project completed as part of a self-directed group study on deep learning for autonomous systems.
+
+![Diagram2](https://github.com/user-attachments/assets/b73fdedc-ba06-4599-a534-eb248afd9251)
+
+
+**Link:** [Traffic Sign Classification Repo](https://github.com/pjcrann219/CS-539-RoadSignDetection)
+
 ## Cart Pole System Controller Design/Analyses
 
 **Goal:** Create a simulation of a cart pole system to then design, test, and evaluate different controllers and state estimation techniques on.
