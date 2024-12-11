@@ -5,6 +5,13 @@ Current Masters Student at Worcester Polytechnic Institute in Robotics Engineeri
 
 # Highlighted Work
 
+## Dense Prediction Transformer for Monocular Depth Prediction 
+Fine-tuned a transformer based monocular depth estimation model proposed in [R. Ranftl et al., *Vision Transformers for Dense Prediction*, 2021](https://arxiv.org/pdf/2103.13413) on drone simulation imagery provided by [G. Rizzoli et al., *SynDrone - Multi-modal UAV Dataset for Urban Scenarios*, 2023](https://github.com/LTTM/Syndrone/tree/main). Created dataloaders, loss functions, training scripts, and associated utilities to successfully adapt the pretrained model to this new dataset. Achieved improved performance compared to pretrained model, most noticably by picking up fine details such as street lights and fences, and obtaining improved resolution on leaves and far buildings.
+
+![Screenshot from 2024-12-11 08-57-49](https://github.com/user-attachments/assets/5a561ac7-4689-4ddc-8079-7acf24d96a31)
+
+**Link:** [Depth Estimation](https://github.com/pjcrann219/RBE-577-ML_Robotics/tree/main/Final/DepthEstimation)
+
 ## Traffic Sign Classification Using Convolutional Neural Networks
 
 **Goal:** Develop a convolutional neural network (CNN) to classify traffic signs in unmapped environments to ensure autonomous vehicles obey road rules.
