@@ -12,6 +12,14 @@ Fine-tuned a transformer based monocular depth estimation model proposed in [R. 
 
 **Link:** [Depth Estimation](https://github.com/pjcrann219/RBE-577-ML_Robotics/tree/main/Final/DepthEstimation)
 
+## Weed Cluster Classification for Efficient Autonomous Herbicide Application
+
+Developed a classification subsystem capable of classifying the presence of weeds in arial RGB+NIR imagery of farmland. Used the [Agriculture Vision 2021 Dataset](https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021) to develop 3 different classification models. A custom CNN, a fine-tuned/adapted ResNet50, and a fine-tuned/adapted Google ViT-base-patch16-224. All models were evaluated and compared via ROC Curves found below.
+
+![Screenshot from 2024-12-11 09-14-49](https://github.com/user-attachments/assets/7deedf9b-0bad-4338-a4e0-914c92642f4d)
+
+**Link:** [Weed Classification](https://github.com/pjcrann219/RBE-594_HerbicideReduction/tree/main/ComputerVision)
+
 ## Traffic Sign Classification Using Convolutional Neural Networks
 
 **Goal:** Develop a convolutional neural network (CNN) to classify traffic signs in unmapped environments to ensure autonomous vehicles obey road rules.
