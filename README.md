@@ -1,7 +1,5 @@
 # About me
-[Linkedin](https://www.linkedin.com/in/paulcrann) | pcrann@gmail.com
-
-Current Masters Student at Worcester Polytechnic Institute in Robotics Engineering
+[Linkedin](https://www.linkedin.com/in/paulcrann) | pcrann@gmail.com | MS Robotics Engingeering WPI, BS Mechanical Engineering UMass Amherst
 
 # Highlighted Work
 
