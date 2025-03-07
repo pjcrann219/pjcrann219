@@ -3,6 +3,12 @@
 
 # Highlighted Work
 
+## Snake AI - Reinforcement Learning with A2C
+Developed a deep reinforcement learning agent using Advantage Actor-Critic (A2C) to play Snake. Designed a feature-based state representation and a reward system balancing exploration and survival. Optimized training with entropy regularization, adaptive learning rates, and parallel environments. Achieved high-performance navigation on a 7×7 board, with an average score of 17 and a max score of 43
+![7x7 Inference Example](https://github.com/pjcrann219/Snake_AI/blob/main/assets/snake_inference_5games_dim7_20250224-144940.gif)
+
+**Link:** [Snake AI](https://github.com/pjcrann219/Snake_AI)
+
 ## Dense Prediction Transformer for Monocular Depth Prediction 
 Fine-tuned a transformer based monocular depth estimation model proposed in [R. Ranftl et al., *Vision Transformers for Dense Prediction*, 2021](https://arxiv.org/pdf/2103.13413) on drone simulation imagery provided by [G. Rizzoli et al., *SynDrone - Multi-modal UAV Dataset for Urban Scenarios*, 2023](https://github.com/LTTM/Syndrone/tree/main). Created dataloaders, loss functions, training scripts, and associated utilities to successfully adapt the pretrained model to this new dataset. Achieved improved performance compared to pretrained model, most noticably by picking up fine details such as street lights and fences, and obtaining improved resolution on leaves and far buildings.
 
