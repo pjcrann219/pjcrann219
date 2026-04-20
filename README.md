@@ -12,8 +12,10 @@
 
 **Outcome**: I get a high-signal daily briefing tailored to my interests, with enough context to stay current quickly and enough sourcing to dive deeper when needed.
 
-<img width="465" height="545" alt="Screenshot 2026-04-19 at 10 38 09 PM" src="https://github.com/user-attachments/assets/981b3aeb-66bc-4bda-b313-e3b7b31a1f12" />
 
+| Architecture | Example |
+| :---: | :---: |
+| <img width="465" height="545" alt="Screenshot 2026-04-19 at 10 38 09 PM" src="https://github.com/user-attachments/assets/981b3aeb-66bc-4bda-b313-e3b7b31a1f12" /> | <img width="845" height="569" alt="image" src="https://github.com/user-attachments/assets/34843ad1-9f78-4544-8574-870fd2b53542" />) |
 
 ## Snake AI - Reinforcement Learning with A2C
 Developed a deep reinforcement learning agent using Advantage Actor-Critic (A2C) to play Snake. Designed a feature-based state representation and a reward system balancing exploration and survival. Optimized training with entropy regularization, adaptive learning rates, and parallel environments. Achieved high-performance navigation on a 7×7 board, with an average score of 17 and a max score of 43
