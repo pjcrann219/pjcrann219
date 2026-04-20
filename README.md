@@ -3,6 +3,15 @@
 
 # Highlighted Work
 
+## Customized Newsletter
+**Why I built it**: I couldn’t find a newsletter that matched the specific combination of topics I follow, and most alert tools surfaced too much irrelevant noise.
+
+**What it does**: I define the topics and filtering criteria I care about. A serverless AWS pipeline then gathers coverage, filters low-relevance items, summarizes major developments, and sends a morning digest with direct source links.
+
+**How it’s built**: The system runs on AWS Lambda with Step Functions orchestration and S3-backed stage artifacts, with CI/CD deployment via GitHub Actions.
+
+**Outcome**: I get a high-signal daily briefing tailored to my interests, with enough context to stay current quickly and enough sourcing to dive deeper when needed.
+
 ## Snake AI - Reinforcement Learning with A2C
 Developed a deep reinforcement learning agent using Advantage Actor-Critic (A2C) to play Snake. Designed a feature-based state representation and a reward system balancing exploration and survival. Optimized training with entropy regularization, adaptive learning rates, and parallel environments. Achieved high-performance navigation on a 7×7 board, with an average score of 17 and a max score of 43
 ![7x7 Inference Example](https://github.com/pjcrann219/Snake_AI/blob/main/assets/snake_inference_5games_dim7_20250224-144940.gif)
